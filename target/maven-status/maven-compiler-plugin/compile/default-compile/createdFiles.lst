@@ -1,0 +1,5 @@
+com\kgisl\springinjection\AppConfig.class
+com\kgisl\springinjection\Company.class
+com\kgisl\springinjection\Employee.class
+com\kgisl\springinjection\EmployeeImp.class
+com\kgisl\springinjection\MainApp.class
